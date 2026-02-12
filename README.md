@@ -40,6 +40,7 @@ TODO: Aquí estan los links referentes a la información encontrada:
 - https://www.ibm.com/es-es/think/topics/hardware
 - https://www.significados.com/hardware/
 - https://www.significados.com/software/
+- https://www.corsair.com/es/es/explorer/gamer/gaming-pcs/hardware-vs-software-whats-the-difference/?srsltid=AfmBOoofPAvmfeazk4-FbRBiaXPG2MCSb3htdUcaq29Ao3ybKLM7RM5-
 
 # Créditos
 
