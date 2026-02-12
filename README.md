@@ -21,6 +21,9 @@ TODO: Agregar explicación sobre este ejercicio, las evidencias y conclusiones.
 
 TODO: Agregar el Programa y revisar si funciona correctamente.
 
+TODO: Para poder instalar el JDK, se puede vasar desde la pagina oficial de Oracle (Java).
+Aquí esta el link: (https://www.oracle.com/es/java/technologies/downloads/)
+
 # Repositorio
 
 TODO: Agregar los apuntes de Clase, sobre como se crea un repositorio.
