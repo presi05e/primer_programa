@@ -1,8 +1,8 @@
-# 📍primer_programa
+# 🧑‍💻primer_programa
 
 Este repositorio esta Creado en la clase de logica de Progrmación, para el primer trabajo evaluativo del semestre.
 
-# 📍Contenido
+# 🗂️Contenido
 
 - Solución del Comand Challenge.
   
@@ -15,7 +15,7 @@ Este repositorio esta Creado en la clase de logica de Progrmación, para el prim
 - Créditos.
 
 
-# 📍Command Challenge
+# 🆘Command Challenge
 
 - Agregar explicación sobre este ejercicio, las evidencias y conclusiones.
 
@@ -25,7 +25,7 @@ Este repositorio esta Creado en la clase de logica de Progrmación, para el prim
   y los atajos dentro de esta misma terminal.
 
 
-# 📍Programa
+# 🖲️Programa
 
 - Agregar el Programa y revisar si funciona correctamente.
 
@@ -38,14 +38,14 @@ https://www.oracle.com/es/java/technologies/downloads/
   conclusión: Al realizar este programa logramos practicar de forma efectiva  y poner en practica nuestros conocimientos relazionados frente a este leguaje de programación,
   tambien pusimos en practica nuestra logica de progamación y nuestra de resolución de problemas del entorno.
 
-# 📍Repositorio
+# 🛜Repositorio
 
 - Agregar los apuntes de Clase, sobre como se crea un repositorio.
 
   conclusión: Nuestro equipo opina que al crear este repositorio logramos comprender mas sobre la importancia del buen uso de Github y de los repositorios
   no solo dentro de los trabajos de la Universidad si no tambien dentro de los entornos laborales y dentro de entornos personales.
 
-# 📍Exposicion
+# 📚Exposicion
 
 - buscar la información necesaria para la exposición y practicar sobre el tema para hablar fuidamente.
 
@@ -71,7 +71,7 @@ https://www.oracle.com/es/java/technologies/downloads/
   conclusión: Al terminar este apartado del trabajo nuestro equipo logro darse cuenta concreta las diferencias entre el software y el Hardware, ademas nos parecio muy interesante los tipos
   de estos dos y de que manera se clasifican y se ordenan segun las tareas que realizan dentro de nuestro computador y como esto afecta nuestro uso al momento de realizar tanto tareas basicas como complejas.
 
-# 📍Créditos
+# 🪙Créditos
 
 Para los integrantes del grupo, colaboradores y desarrolladores: 
 
