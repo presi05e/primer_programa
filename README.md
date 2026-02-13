@@ -32,7 +32,8 @@ Este repositorio esta Creado en la clase de logica de Progrmación, para el prim
   Dentro de este apartado agregamos dentro del repositorio el programa.java del Holamundo.
 
 - Para poder instalar el JDK, se puede vasar desde la pagina oficial de Oracle (Java).
-Aquí esta el link: https://www.oracle.com/es/java/technologies/downloads/
+Aquí esta el link:
+https://www.oracle.com/es/java/technologies/downloads/
 
   conclusión: Al realizar este programa logramos practicar de forma efectiva  y poner en practica nuestros conocimientos relazionados frente a este leguaje de programación,
   tambien pusimos en practica nuestra logica de progamación y nuestra de resolución de problemas del entorno.
